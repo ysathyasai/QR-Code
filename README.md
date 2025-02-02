@@ -36,11 +36,11 @@ This project is a Streamlit application designed for generating, reading, and sc
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ysathyasai/QR_Code_Generator_Reader.git
+   git clone https://github.com/ysathyasai/QR-Code.git
    ```
 2. Navigate to the project directory in your terminal:
    ```sh
-   cd QR_Code_Generator_Reader
+   cd QR-Code
    ```
 
 3. Install the dependencies:
@@ -50,7 +50,7 @@ This project is a Streamlit application designed for generating, reading, and sc
 
 4. Run the Streamlit application:
    ```sh
-   streamlit run QR_Code.py
+   streamlit run QR-Code.py
    ```
 
 5. Open your web browser and go to [http://localhost:8501](http://localhost:8501) to access the application (or any other localhost server provided in your terminal).
